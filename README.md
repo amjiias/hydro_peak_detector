@@ -1,1 +1,1 @@
-# hydro_peak_detector
+# peak_detector
